@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renoob21
-- 👀 I’m interested in Machine Learning, Deep Learning, Cybersecurities, and Python
-- 🌱 I’m currently learning Complete Tensorflow 2 Certificate Bootcamp by Zero to Mastery
+- 👀 I’m interested in Machine Learning, Deep Learning, Cyber Security, Full Stack Development, and Python
+- 🌱 I’m currently learning Complete Web Development Bootcamp by Zero to Mastery
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
