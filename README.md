@@ -1,3 +1,5 @@
+![My Badge](https://tryhackme-badges.s3.amazonaws.com/renoob.png)
+
 # 💫 About Me:
 🔭 I'm currently working on building my Penetration Testing Lab, by creating tools using Rust<br>👯 I'm looking to collaborate with Development Projects, Ethical Hacking, Software Engineering, Machine Learning, Data Analytics, etc<br>🌱 I'm currently learning Rust Programming Language, WASM integration, and System Design<br>💬 Ask me about coding, web development, Cybersecurity, AI, system design, and UX design
 
